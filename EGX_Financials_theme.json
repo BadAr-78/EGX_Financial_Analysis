@@ -1,0 +1,20 @@
+{
+  "name": "EGX_Financials_theme",
+  "dataColors": ["#1D4A55", "#3A9A9A", "#D9772B", "#7A5AA6", "#B6452C", "#2E7D5B", "#AEBBC0", "#12303A"],
+  "background": "#FFFFFF",
+  "foreground": "#12303A",
+  "tableAccent": "#1D4A55",
+  "good": "#2E7D5B",
+  "neutral": "#AEBBC0",
+  "bad": "#B6452C",
+  "maximum": "#1D4A55",
+  "center": "#AEBBC0",
+  "minimum": "#D9772B",
+  "null": "#AEBBC0",
+  "textClasses": {
+    "label":    { "fontFace": "Segoe UI", "color": "#12303A" },
+    "title":    { "fontFace": "Segoe UI Semibold", "color": "#12303A" },
+    "callout":  { "fontFace": "Segoe UI Semibold", "color": "#1D4A55" },
+    "header":   { "fontFace": "Segoe UI Semibold", "color": "#12303A" }
+  }
+}
